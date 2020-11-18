@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672272658250",
+    "firebase_url": "https://appnotasfirebase20202-e29cb.firebaseio.com",
+    "project_id": "appnotasfirebase20202-e29cb",
+    "storage_bucket": "appnotasfirebase20202-e29cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672272658250:android:545a54afea102e1e8d1bb3",
+        "android_client_info": {
+          "package_name": "com.example.appnotasfirebase20202"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672272658250-6vo3n783prqqbkjulsn3u5qnaqujgdkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaj87EaFBHZQYC0oYAYI3_qWlokRR4rdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672272658250-6vo3n783prqqbkjulsn3u5qnaqujgdkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
